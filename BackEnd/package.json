@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npx nodemon index.js",
-    "build": "npm install"
+    "test": "echo \"Error: no test specified\" && exit 1"
+   
   },
   "author": "Surendra",
   "license": "ISC",
